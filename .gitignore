@@ -1,7 +1,6 @@
 /.idea/
 /rollup/build/
 /docs/components/api.json
-/dist/
 /docs/pages/dist/
 /docs/img/dist/
 *.js.map
